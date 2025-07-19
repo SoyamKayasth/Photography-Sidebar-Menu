@@ -16,9 +16,12 @@ This project is a beautiful and responsive **photography-themed sidebar navigati
 
 ## 📁 Project Structure
 Photography-Sidebar-Menu/
+
 ├── Photography_home.html # Main HTML structure
-├── Photography_home.css # CSS styles and animations
-└── images/Camera.jpg # Background image (must be added)
+
+ ├── Photography_home.css # CSS styles and animations
+
+  └── images/Camera.jpg # Background image (must be added)
 
 ---
 
