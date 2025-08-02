@@ -44,4 +44,5 @@ Photography-Sidebar-Menu/
 
 ## 🖼️ Preview
 
-![Preview](https://raw.githubusercontent.com/SoyamKayasth/Photography-Sidebar-Menu/625294872f933e16465df5bd1aa869359d5c0636/preview-of-home-page.png)
+![Preview](preview.gif)
+---
